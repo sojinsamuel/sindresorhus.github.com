@@ -74,6 +74,10 @@ macOS does some noise reduction by default. For stronger noise reduction, check 
 
 Yes, follow the guide [here](https://www.switchingtomac.com/tutorials/how-to-use-your-iphone-as-a-microphone-on-a-mac/).
 
+#### How can I export, import, sync, or backup the settings?
+
+[See this guide.](https://github.com/sindresorhus/guides/blob/main/backup-app-settings.md)
+
 #### Where can I find the changelog?
 
 Go [here](https://apps.apple.com/app/id1529006487) and click “Version History”.

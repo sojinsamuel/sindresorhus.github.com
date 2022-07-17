@@ -110,6 +110,10 @@ You can add some horizontal padding around the text by adding multiple spaces to
 
 I plan to do it if the app takes off. So tell your friends.
 
+#### How can I export, import, sync, or backup the settings?
+
+[See this guide.](https://github.com/sindresorhus/guides/blob/main/backup-app-settings.md)
+
 #### Is the app native?
 
 Yes, it's native and written in Swift and SwiftUI.

@@ -25,7 +25,7 @@ Dato requires macOS 12.3 or later.
 <a id="trial"></a>
 ### Trial
 
-There's a fully functional trial available [here](https://dsc.cloud/sindresorhus/Dato-4.0.2-trial-1657562353). The only limitation is that it will prompt to buy Dato every 12 hours and it will not receive updates. If you decide to buy Dato on the App Store, all data and settings from the trial version will be preserved (they share the same storage).
+There's a fully functional trial available [here](https://dsc.cloud/sindresorhus/Dato-4.0.4-trial-1659306524). The only limitation is that it will prompt to buy Dato every 12 hours and it will not receive updates. If you decide to buy Dato on the App Store, all data and settings from the trial version will be preserved (they share the same storage).
 
 ### Features
 
@@ -182,13 +182,19 @@ There's a fully functional trial available [here](https://dsc.cloud/sindresorhus
 		<td>
 			Swipe left/right on the calendar
 		</td>
-		<td>Previous/next month in the calendar</td>
+		<td>Next/previos month in the calendar</td>
 	</tr>
 	<tr>
 		<td>
 			<kbd>option</kbd> + Swipe left/right on the calendar
 		</td>
-		<td>Previous/next year in the calendar</td>
+		<td>Next/previous year in the calendar</td>
+	</tr>
+	<tr>
+		<td>
+			<kbd>shift</kbd> + Swipe left/right on the calendar
+		</td>
+		<td>Next/previous year in the calendar</td>
 	</tr>
 </table>
 
@@ -349,9 +355,9 @@ This is a perfect use-case for the built-in Shortcuts app. You can use the `Quit
 
 To hide the Dato clock at certain time of the day, you need the [Shortery app](https://apps.apple.com/no/app/shortery/id1594183810?mt=12). The Shortery app is only a temporary requirement. It's almost certain that Apple will introduce automation for Shortcuts in macOS 13.
 
-#### How can I export / import / sync / backup preferences?
+#### How can I export, import, sync, or backup the settings?
 
-I would recommend the [Syncalicious app](https://github.com/zenangst/Syncalicious) which works with any macOS app.
+[See this guide.](https://github.com/sindresorhus/guides/blob/main/backup-app-settings.md)
 
 #### How can I open meeting links (Google Meet, Zoom, Microsoft Teams, etc.) in a specific browser?
 

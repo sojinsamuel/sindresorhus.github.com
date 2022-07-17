@@ -40,8 +40,9 @@ macOS hides menu bar apps when there is no space left in the menu bar. This is a
 - If you have the “Pause while screen is locked” setting enabled, you may have locked the screen before leaving it, which would cause Lungo to not keep your computer awake.
 - If you have the “Deactive when switching to battery” setting enabled and you disconnect the power adapater, Lungo would not keep your computer awake. You might have accidentally unplugged it or there might have been a power failure.
 - If you have set a sleep schedule in “System Preferences › Battery › Schedule”, it will take priority over Lungo. This is out of Lungo's control.
+- If you have set the computer to log out after a certain amount of time in “System Preferences › Security & Privacy › Advanced”, it will take priority over Lungo. This is out of Lungo's control.
 - If you see apps open again when you wake up your computer, it means your computer was restarted for some reason. Lungo cannot keep your computer from restarting. Some common reason it may have restarted are: Power outage, macOS crashed, or scheduled shutdown/restart (in Battery system settings).
-  + You can [check how long your computer has been awake and when it was last rebooted](https://www.macobserver.com/tips/quick-tip/mac-system-uptime-terminal/) to narrow down the problem.
+  + You can [check how long your computer has been awake and when it was last rebooted](https://www.macobserver.com/tips/quick-tip/mac-system-uptime-terminal/) to narrow down the problem. You can also check when the computer was last logged in with by typing the command `last` in the Terminal app.
 
 Some things you could try:
 - Make sure you are on the latest macOS and Lungo version.
@@ -71,6 +72,10 @@ Yes, choose “Activate on Left-click” in the preferences.
 #### Can I use a custom duration?
 
 Lungo comes with a set of commonly used durations, which should be enough for most users. People love Lungo for its simplicity. Lungo has tens of thousands of users and only a few people have requested a custom duration. However, power users can take advantage of the Shortcuts app to use custom durations. Drag the the “Set Enabled State” Lungo action into the shortcut editor in the Shortcuts app. Click “Show more” and then choose a custom duration. You can pin the shortcut workflow to the menu bar for easy access or set a global keyboard shortcut for it.
+
+#### How can I export, import, sync, or backup the settings?
+
+[See this guide.](https://github.com/sindresorhus/guides/blob/main/backup-app-settings.md)
 
 #### Can you localize the app into my language?
 

@@ -47,6 +47,12 @@ It's a measurement of the round-trip time for messages sent from the originating
 
 The app makes use of the built-in [`networkQuality` command-line tool](https://support.apple.com/en-gb/HT212313) under the hood, which is provided by Apple.
 
+#### Can it show the current speed live as it calculates it?
+
+This is not possible as it's not provided by the macOS tool Speediness uses to get the speed.
+
+I have sent a [feature request to Apple](https://github.com/feedback-assistant/reports/issues/346) about it and I encourage you [to do the same](https://www.apple.com/feedback/macos.html). Feel free to copy-paste my report.
+
 #### How can I run it from the menu bar?
 
 Open the Shortcuts app, create a new shortcut, and then drag the “Get Internet Speed” action into the shortcut editor. Enable the “Pin in Menu Bar” shortcut setting. You can now run speed tests directly from the Shortcuts icon in the menu bar.
@@ -55,10 +61,6 @@ Open the Shortcuts app, create a new shortcut, and then drag the “Get Internet
 #### How can I run the speed test automatically every hour?
 
 Open the Shortcuts app, create a new shortcut, and then drag the “Get Internet Speed” action into the shortcut editor. You may want to enable the “Add to History” action setting. [Get the Shortery app](https://apps.apple.com/no/app/shortery/id1594183810?mt=12) and set it to run this shortcut every hour or at an interval of your choosing. (The Shortery app is only needed this year. It's almost certain that Apple will introduce automation for Shortcuts in macOS 13)
-
-#### Can it show the current speed live as it calculates it?
-
-This is not possible as it's not provided by the tool Speediness uses to get the speed.
 
 <a id="ios"></a>
 #### Can you add support for iOS?

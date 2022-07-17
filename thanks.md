@@ -103,9 +103,6 @@ None -->
 <a href="https://getstream.io/chat/sdk/ios/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Jan2022_iOSChatSDK&utm_term=Sindresorhus" class="sponsor" rel="nofollow" style="position:relative;left:-3px;margin-top:20px">
 	<img src="/assets/thanks/stream-logo.svg" width="360" alt="Stream">
 </a>
-<a href="https://neverinstall.com/spaces/devtools?utm_source=github&utm_medium=sponsor&utm_campaign=sindre" class="sponsor" rel="nofollow" style="position:relative;left:-3px;margin-top:20px">
-	<img src="/assets/thanks/neverinstall-logo-light.svg" width="340" alt="neverinstall">
-</a>
 <a href="https://www.useanvil.com/?utm_source=sindresorhus" class="sponsor" rel="nofollow" style="position:relative;left:-3px;margin-top:20px">
 	<img src="/assets/thanks/anvil-logo-light.svg" width="310" alt="Anvil">
 </a>
@@ -392,6 +389,7 @@ I'm forever thankful to these people and companies that have previously supporte
 - [Don Okuda](https://github.com/donokuda)
 - Linus-Alexander Maximilian Gubenis
 - Christian Buratto
+- [neverinstall](https://neverinstall.com)
 
 ---
 

@@ -46,6 +46,10 @@ The system needs some time to accurately calculate the time remaining estimate.
 
 It can unfortunately not show this because of restrictions (sandboxing) imposed on apps on the App Store. However, you could change the menu bar item type to text instead of icon and use this app in combination with the system battery indicator.
 
+#### How can I export, import, sync, or backup the settings?
+
+[See this guide.](https://github.com/sindresorhus/guides/blob/main/backup-app-settings.md)
+
 #### Where can I find the changelog?
 
 Go [here](https://apps.apple.com/app/id1206020918) and click “Version History”.

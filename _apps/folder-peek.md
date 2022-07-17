@@ -23,7 +23,7 @@ Make sure you read the below tips and FAQ.
 - Click a file or folder in the menu to open it.
 - Click a file or folder while pressing the <kbd>Option</kbd> key to show it in Finder.
 - Click the folder title ([the top menu item](https://dsc.cloud/sindresorhus/Screen-Shot-2022-04-22-at-00.49.49-1650563404)) to open the folder.
-- You can drag and drop the file thumbnail in the file submenu.
+- You can drag and drop the file thumbnail in the file submenu. Press the <kbd>Option</kbd> key while dragging to copy instead of moving.
 - Just start typing when the menu is open to search for a file or folder.
 - Press the <kbd>Option</kbd> when viewing the file details to copy path or image/video dimensions.
 - You can use the Shortcuts support to show/hide certain folders depending on what project you are working on.
@@ -81,6 +81,8 @@ You can create a shortcut in the Shortcuts app using the “Set Folder Visibilit
 #### How can I drag & drop a file from the menu?
 
 You can drag & drop the file preview/thumbnail in the file submenu.
+
+Press the <kbd>Option</kbd> key while dragging to copy instead of moving.
 
 It would have been nicer if you could drag & drop directly from the top-level list of files and folders, but this is not possible because of limitations with the system menu.
 
@@ -151,6 +153,10 @@ For other apps, follow [this guide](https://binarynights.com/manual#fileviewer),
 - Show the menu using a custom global keyboard shortcut.
 - Limit the number of items shown in the menu.
 - Shortcuts support.
+
+#### How can I export, import, sync, or backup the settings?
+
+[See this guide.](https://github.com/sindresorhus/guides/blob/main/backup-app-settings.md)
 
 #### Why is this free without ads?
 

@@ -16,7 +16,7 @@ links:
 
 ### Older versions
 
-- [Last macOS 11 compatible version](https://github.com/sindresorhus/meta/files/8817868/HEIC.Converter.2.1.5.-.macOS.10.15.zip) *(2.1.5)*
+- [Last macOS 11 compatible version](https://github.com/sindresorhus/meta/files/9218007/HEIC.Converter.2.1.5.-.macOS.11.zip) *(2.1.5)*
 - [Last macOS 10.15 compatible version](https://github.com/sindresorhus/meta/files/8817868/HEIC.Converter.2.1.5.-.macOS.10.15.zip) *(2.1.5)*
 - [Last macOS 10.14 compatible version](https://github.com/sindresorhus/meta/files/6715716/HEIC.Converter.1.9.0.-.macOS.10.14.zip) *(1.9.0)*
 - [Last macOS 10.13 compatible version](https://dsc.cloud/sindresorhus/HEIC-Converter-for-macOS-10.13-1575452738) *(1.5.3)*

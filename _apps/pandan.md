@@ -92,6 +92,10 @@ Make a [shortcut](https://support.apple.com/guide/shortcuts-mac/intro-to-shortcu
 
 Tip: Shortcuts can be a bit slow sometimes. You can use this command to have it not wait for the shortcut to finish running: `(&>/dev/null shortcuts run ShortcutName &)`
 
+#### How can I export, import, sync, or backup the settings?
+
+[See this guide.](https://github.com/sindresorhus/guides/blob/main/backup-app-settings.md)
+
 #### Why is this free without ads?
 
 I just enjoy making Mac apps. Consider leaving a nice review on the App Store.
