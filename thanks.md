@@ -154,6 +154,7 @@ None -->
 - [Alexis Tyler](https://github.com/OmgImAlexis)
 - [Vital](https://github.com/vital-software)
 - [Checkly](https://github.com/checkly)
+- [Stefan Thomas](https://www.patreon.com/user/creators?u=15361260)
 
 ## Supporter <span class="reward-price">[$10/month](https://www.patreon.com/bePatron?c=95723&rid=1917314)</span>
 
@@ -166,7 +167,6 @@ None -->
 - [Donald Fischer](https://twitter.com/dff)
 - Olivier Martin
 - carddamom
-- [Chris Vogt](https://twitter.com/C1V0)
 - [aggre](https://twitter.com/aggre_)
 - [robertgrzonka](https://twitter.com/rgrzonka)
 - [Derk-Jan Karrenbeld](https://twitter.com/SleeplessByte)
@@ -180,7 +180,6 @@ None -->
 - [Paul Irish](https://github.com/paulirish)
 - [Florian Breisch](https://github.com/florianb)
 - [Mikkel Malmberg](https://github.com/mikker)
-- [Matthew J. McCullough](https://github.com/matthewmccullough)
 - [Keith Ito](https://github.com/keithito)
 - [Sasha Koss](https://github.com/kossnocorp)
 - [Viktor Fonic](https://github.com/vfonic)
@@ -209,7 +208,6 @@ None -->
 - [Benjamin S.](https://github.com/benjaminsuch)
 - [Paul Warelis](https://github.com/pwarelis)
 - [Connor Bär](https://github.com/connor-baer)
-- [Noah Klayman](https://github.com/nklayman)
 - [Blai Pratdesaba](https://github.com/blaiprat)
 - [Sean](https://github.com/hammy2899)
 - [Bertrand Marron](https://github.com/tusbar)
@@ -245,14 +243,12 @@ None -->
 - [Aternos](https://github.com/aternosorg)
 - [Yuan Qing Lim](https://github.com/yuanqing)
 - [Vince Malone](https://github.com/VinceMalone)
-- [Ideal Postcodes](https://github.com/ideal-postcodes)
 - [Paul Warelis](https://github.com/pwarelis)
 - [Yefim Vedernikoff](https://github.com/yefim)
 - [Osama Khan](https://github.com/osamakhn)
 - [Rafael Conde](https://github.com/rafaelconde)
 - [Kevin R. Whitley](https://github.com/kwhitley)
 - [Renuo](https://github.com/renuo)
-- [Joël Galeran](https://github.com/Jolg42)
 - [Bryan Mishkin](https://github.com/bmish)
 - [Andreas Pizsa](https://github.com/AndreasPizsa)
 - [Ryan Sonshine](https://github.com/ryansonshine)
@@ -276,6 +272,9 @@ None -->
 - [Gregor Adams](https://github.com/pixelass)
 - [@cburatto](https://github.com/cburatto)
 - [Zenika](https://github.com/Zenika)
+- [FlawCra](https://github.com/FlawCra)
+- [Ryan Atkinson](https://github.com/ryanatkn)
+- [DevUtilsApp](https://github.com/DevUtilsApp)
 
 <hr style="opacity:0.3;margin:20px 0 10px 0">
 <small style="margin-bottom:20px;display:inline-block;font-size:10px;opacity:0.7">Add your Twitter account to your Patreon profile to have your name linked<br>(It will be updated on the first day of every month)</small>
@@ -390,6 +389,11 @@ I'm forever thankful to these people and companies that have previously supporte
 - Linus-Alexander Maximilian Gubenis
 - Christian Buratto
 - [neverinstall](https://neverinstall.com)
+- [Chris Vogt](https://twitter.com/C1V0)
+- [Matthew J. McCullough](https://github.com/matthewmccullough)
+- [Joël Galeran](https://github.com/Jolg42)
+- [Ideal Postcodes](https://github.com/ideal-postcodes)
+- [Noah Klayman](https://github.com/nklayman)
 
 ---
 
