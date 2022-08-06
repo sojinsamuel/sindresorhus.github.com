@@ -49,6 +49,8 @@ For example, to open all links you click in Slack in Chrome:
 
 While showing the browser prompt, you can press <kbd>Option</kbd> to show buttons to copy or share the link. Or press <kbd>Shift</kbd> or <kbd>Command+C</kbd> to quickly copy the link.
 
+Press <kbd>Option+Tab</kbd>/<kbd>Shift+Option+Tab</kbd> or arrow keys to cycle through browsers. Press <kbd>Return</kbd> to select one.
+
 <br>
 
 <h3 id="faq">Frequently Asked Questions</h3>
@@ -87,6 +89,8 @@ Removing tracking parameters improve privacy and also make URLs more aesthetical
 
 Before: `https://foo.com?utm_content=buffercf3b2&utm_source=snapchat.com`\
 After: `https://foo.com`
+
+Did you know that if you click a TikTok link that someone shared with you, they will be able to see that you watched it? Velja anonymizes TikTok links so that you will not be tracked.
 
 <a id="tracking-parameters-not-removed"></a>
 #### Tracking parameters are not removed
